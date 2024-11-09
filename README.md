@@ -9,4 +9,4 @@ or download .txt file.
 
 In addition, if the user wants to scan another image, the delete button will delete the previous image and text then the user can redo the process once again.
 
-#ALLAM_Challenge
+#ALLAM_Challenge #TheTwo
