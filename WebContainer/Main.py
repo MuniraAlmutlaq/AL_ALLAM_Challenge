@@ -6,11 +6,11 @@ class ALLaM_Recognizer:
     def get_credentials():
         return {
             "url": "https://eu-de.ml.cloud.ibm.com",
-            "api_key": "RGFpLsHNJvfKImXgyKACDUWgAmj9A8e62cSLS5cgP17u"
+            "api_key": " "
         }
 
     model_id= "sdaia/allam-1-13b-instruct"
-    project_id= "b04555df-6516-4591-9826-2e7bf07168db"
+    project_id= " "
 
     parameters= {
         "decoding_method": "greedy",
