@@ -1,6 +1,6 @@
 # AL Scanning Tool 🦾 📝
 
--The AL project- is a scanning tool that works with image and text processing - arabic language supported.
+The AL project - is a scanning tool that works with image and text processing - arabic language supported.
 
 This tool works on a website, where the user can upload or drag & drop the image and crop it if needed to start the image and text processing.
 
