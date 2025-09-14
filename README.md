@@ -1,18 +1,45 @@
-# The _AL_ Scanning Tool 🦾 📝
+# 🦾📝 The _AL_ Scanning Tool
 
-### ▫️ What is AL?
+A web-based tool for **image and text processing** with full support for the **Arabic language**.
 
-The <ins>AL project</ins> - is a scanning tool that works with image and text processing - supports arabic language.
+---
 
-### ▫️ How does the tool work?
+## 🔎 What is AL?
+The **AL Project** is a lightweight scanning solution that extracts text from uploaded images.  
+It is designed to make working with Arabic text simple and efficient.
 
-▶️ This tool works as a website, where the user can upload or drag & drop the image (crop it if needed) to start the image and text processing.
+---
 
-▶️ At the end:
+## ⚙️ How It Works
 
-* The output will appear on the screen at the left of the full or cropped image.
-* The user can copy the output manually using the copy button or download the _.txt_ file.
+1️⃣ **Upload / Drag & Drop** an image (with optional cropping).  
+2️⃣ The tool processes the image and extracts the text.  
+3️⃣ The result appears **next to the original/cropped image**.  
 
-🔺 Additionally, if the user wants to scan another image, the **delete** button will delete the previous image and text, and then the user can redo the process once again.
+✅ From here, you can:
+- 📋 **Copy** the extracted text with one click
+- 💾 **Download** the result as a `.txt` file
+- 🗑️ **Delete** the current image and text to start fresh
 
+---
+
+## ✨ Features
+- 🌐 Web-based, no installation required
+- 🖼️ Supports image cropping before processing
+- 📝 Arabic text extraction & processing
+- 📋 Quick copy to clipboard
+- 💾 Save results as `.txt` files
+- 🔄 Reset and scan multiple images easily
+
+---
+
+## 🚀 Example Workflow
+1. Upload an image
+2. Crop (if needed)
+3. Get the processed Arabic text
+4. Copy or download your results
+
+---
+
+## 🏷️ Tags
 #ALLAM_Challenge #TheTwo
